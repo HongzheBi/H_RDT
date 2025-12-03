@@ -173,7 +173,7 @@ elif self.dataset_name == "your_robot_name":
 Join our WeChat group to discuss H-RDT related technical issues:
 
 <div align="center">
-<img src="assets/wechat_group_qr.jpg" width="200" alt="WeChat Group QR Code">
+<img src="assets/wechat_group_qr.jpg" width="200" alt="WeChat Group QR Code"> 
 <p><em>WeChat Group QR Code</em></p>
 </div>
 
